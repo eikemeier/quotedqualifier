@@ -3,7 +3,7 @@ module github.com/eikemeier/quotedqualifier
 go 1.23.5
 
 require (
-	golang.org/x/oauth2 v0.25.0
+	golang.org/x/oauth2 v0.27.0
 	google.golang.org/api v0.219.0
 )
 
